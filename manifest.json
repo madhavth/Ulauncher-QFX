@@ -9,7 +9,7 @@
   },
   "preferences": [
     {
-      "id": "qfx_cinema_movie_viewer",
+      "id": "qfx_cinema_movie_viewer_v3",
       "type": "keyword",
       "name": "QFX",
       "default_value": "qfx"

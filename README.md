@@ -1,6 +1,6 @@
-# Ulauncher Faker Extension
+# Ulauncher QFX Extension
 
-> Ulauncher Extension that Generates Fake data using the [Faker](https://faker.readthedocs.io/en/master/index.html) library
+> Ulauncher extension that gets data from QFX Nepal website and displays it.
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-yellowgreen.svg?style=for-the-badge)](https://ext.ulauncher.io/)
 [![CI Status](https://img.shields.io/github/workflow/status/brpaz/ulauncher-faker/CI?color=orange&label=actions&logo=github&logoColor=orange&style=for-the-badge)](https://github.com/brpaz/ulauncher-faker)
@@ -15,24 +15,24 @@
 
 * [Ulauncher](https://github.com/Ulauncher/Ulauncher) > 5.0
 * Python >= 3
-* [Faker Python packge](https://faker.readthedocs.io/en/master/) - install with `pip install faker`
+* requests_html package - install with `pip install requests-html`
 
 ## Install
 
 Open ulauncher preferences window -> extensions -> add extension and paste the following url:
 
 ```
-https://github.com/brpaz/ulauncher-faker
+https://github.com/madhavth/Ulauncher-QFX
 ```
 
 ## Usage
 
-To use this extension just type **faker** on Ulauncher input box and select the provider that you want to use to generate fake data.
+To use this extension just type **qfx** on Ulauncher input box and select the provider that you want to use to get the required data.
 
 ## Development
 
 ```
-git clone https://github.com/brpaz/ulauncher-faker
+git clone https://github.com/madhavth/Ulauncher-QFX
 make link
 ```
 
@@ -52,24 +52,21 @@ Contributions are what make the open source community such an amazing place to b
 
 ## 💛 Support the project
 
-If this project was useful to you in some form, I would be glad to have your support.  It will help to keep the project alive and to have more time to work on Open Source.
+If this project was useful to you in some form, I would be glad to have your support.  
+It will help to keep the project alive and to have more time to work on Open Source.
 
 The sinplest form of support is to give a ⭐️ to this repo.
 
-You can also contribute with [GitHub Sponsors](https://github.com/sponsors/brpaz).
+You can also contribute with [GitHub Sponsors](https://github.com/sponsors/madhavth).
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor%20Me-red?style=for-the-badge)](https://github.com/sponsors/brpaz)
 
 Or if you prefer a one time donation to the project, you can simple:
 
-<a href="https://www.buymeacoffee.com/Z1Bu6asGV" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" 
+<a href="https://www.buymeacoffee.com/powermt2019" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" 
 style="height: auto !important;width: auto !important;" ></a>
 
-## Credits
 
-* Extension Icon from [faker-ruby](https://github.com/faker-ruby/faker) project.
-
---- 
 ## License
 
-MIT &copy; Bruno Paz
+MIT &copy; Madhav Thapa

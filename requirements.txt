@@ -1,1 +1,1 @@
-faker==2.0.4
+requests-html
