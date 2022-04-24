@@ -1,0 +1,18 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "QFX Cinema",
+  "description": "Get upcoming & currently showing movies",
+  "developer_name": "Madhav Thapa",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "qfx_cinema_movie_viewer",
+      "type": "keyword",
+      "name": "QFX",
+      "default_value": "qfx"
+    }
+  ]
+}
