@@ -1,6 +1,6 @@
-# Ulauncher QFX Extension
+# Ulauncher QFX Cinemas Nepal Extension
 
-> Ulauncher extension that gets data from QFX Nepal website and displays it.
+> Ulauncher extension that gets data from QFX Cinemas Nepal's website and displays it.
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-yellowgreen.svg?style=for-the-badge)](https://ext.ulauncher.io/)
 [![CI Status](https://img.shields.io/github/workflow/status/brpaz/ulauncher-faker/CI?color=orange&label=actions&logo=github&logoColor=orange&style=for-the-badge)](https://github.com/brpaz/ulauncher-faker)
@@ -55,7 +55,7 @@ Contributions are what make the open source community such an amazing place to b
 If this project was useful to you in some form, I would be glad to have your support.  
 It will help to keep the project alive and to have more time to work on Open Source.
 
-The sinplest form of support is to give a ⭐️ to this repo.
+The simplest form of support is to give a ⭐️ to this repo.
 
 You can also contribute with [GitHub Sponsors](https://github.com/sponsors/madhavth).
 
