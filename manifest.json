@@ -11,7 +11,7 @@
     {
       "id": "qfx_cinema_movie_viewer_v3",
       "type": "keyword",
-      "name": "QFX",
+      "name": "QFX Cinemas",
       "default_value": "qfx"
     }
   ]
