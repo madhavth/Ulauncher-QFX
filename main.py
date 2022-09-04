@@ -83,7 +83,7 @@ class ItemEnterEventListener(EventListener):
             items.append(
                 ExtensionResultItem(
                     icon='images/icon.png',
-                    name=movie.movie_name,
+                    name=f"{movie.movie_name} | {movie.movie_rating}",
                     highlightable=False,
                     on_enter=OpenUrlAction(movie.youtube_url),
                     on_alt_enter=OpenUrlAction(movie.book_url),
